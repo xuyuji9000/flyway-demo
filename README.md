@@ -1,6 +1,10 @@
 # flyway demo
 
-This is a flyway demo.
+This project is used to test out flyway usability at different environment.
+
+Tested environments:
+
+- MacOS
 
 ## Command
 
