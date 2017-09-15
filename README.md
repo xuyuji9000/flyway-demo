@@ -21,3 +21,9 @@ flyway info
 ```bash
 flyway migrate
 ```
+
+- Clean Database
+
+```bash
+flyway clean
+```
