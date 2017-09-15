@@ -1,6 +1,6 @@
 # flyway demo
 
-This project is used to test out flyway usability at different environment.
+This project is used to test out flyway usability at different environments.
 
 Tested environments:
 
